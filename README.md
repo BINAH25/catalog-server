@@ -102,21 +102,17 @@ Before running this project, ensure you have:
 ## Test the Catalog Server
 
 ```
-    curl http://<your-server-ip>/products # curl httP://54.216.7.60/products
+    curl http://<your-server-ip>/products # curl http://54.216.7.60/products
 ```
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
 
-Lessons Learned
+## Lessons Learned
 
-Setting up a full-stack backend system: Learned how to integrate Flask with a database and expose REST APIs.
-
-Configuring Nginx as a reverse proxy: Improved knowledge of web server configurations and security.
-
-Database setup and management: Gained experience working with SQLite and PostgreSQL.
-
-Running applications as background services: Learned to manage and deploy Flask apps using systemd services.
-
-Security considerations: Understood the importance of securing APIs using authentication and HTTPS.
+- Setting up a full-stack backend system: Learned how to integrate Flask with a database and expose REST APIs.
+- Configuring Nginx as a reverse proxy: Improved knowledge of web server configurations and security.
+- Database setup and management: Gained experience working with SQLite and PostgreSQL.
+- Running applications as background services: Learned to manage and deploy Flask apps using systemd services.
+- Security considerations: Understood the importance of securing APIs using  JWT token authentication
 
