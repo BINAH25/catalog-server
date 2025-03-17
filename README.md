@@ -110,9 +110,9 @@ Before running this project, ensure you have:
 
 ## Lessons Learned
 
-- Setting up a full-stack backend system: Learned how to integrate Flask with a database and expose REST APIs.
+- Setting up a backend system: Learned how to integrate Flask with a database and expose REST APIs.
 - Configuring Nginx as a reverse proxy: Improved knowledge of web server configurations and security.
-- Database setup and management: Gained experience working with SQLite and PostgreSQL.
-- Running applications as background services: Learned to manage and deploy Flask apps using systemd services.
+- Database setup and management: Gained experience on how to connect SQLite with Flask and run migration.
+- Running applications as background services: Learned to run the Flask apps in Background using nohup command.
 - Security considerations: Understood the importance of securing APIs using  JWT token authentication
 
