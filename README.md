@@ -61,7 +61,7 @@ Before running this project, ensure you have:
 ## Populate the Product table
 
 ```
-    python3 populate_db.py app.py
+    python3 populate_db.py
 ```
 ## Set Up Nginx as a Reverse Proxy
 - Create an Nginx configuration file
