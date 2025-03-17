@@ -58,7 +58,7 @@ Before running this project, ensure you have:
 ```
 ![alt text](image-3.png)
 
-## Poluate the Product table
+## Populate the Product table
 
 ```
     python3 populate_db.py app.py
